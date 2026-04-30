@@ -1,5 +1,6 @@
 
-#Spring Security 인증 실습
+###Spring Security 인증 실습###
+
 Spring Boot 기반으로 JWT 인증과 카카오 소셜 로그인을 실습한 프로젝트입니다.
 구현 내용
 
